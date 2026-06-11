@@ -1,0 +1,6 @@
+{
+  "name": "L4SWD Smart Learning, Coding & Assessment Platform",
+  "description": "An advanced, developer-focused smart learning ecosystem featuring an Online IDE, Java Compiler, JS Playground, SQL Query Runner, AI Coding Assistant, portfolios, and FocusGuard mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
